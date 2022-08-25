@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yhadri
+- 👀 I’m interested in web development and data visualization.
+- 🌱 I’m currently learning python using django, streamlit, and other frameworks.
+- 💞️ I’m looking to collaborate on nothing at the moment.
+- 📫 How to reach me, find me on <a href="https://www.linkedin.com/in/hadriy/" target="_blank" rel="noopener noreferrer">LinkedIn.</a>
